@@ -108,9 +108,9 @@ const MobileNavWrapper = styled.div`
 `;
 
 const DesktopNavWrapper = styled.nav`
-@media (max-width:480px) {
-	display:none;
-}
+	@media (max-width: 480px) {
+		display:none;
+	}
 .spacer {
 	flex:1;
 }
