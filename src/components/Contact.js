@@ -33,6 +33,6 @@ export default class Contact extends Component {
 
 const FormContainer = styled.div`
 label {
-	color:red;
+	color:black;
 }
 `;
